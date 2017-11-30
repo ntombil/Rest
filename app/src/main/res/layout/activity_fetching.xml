@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    tools:context="com.example.lisbeth.rest.Fetching">
+<TextView
+    android:layout_width="wrap_content"
+    android:text="What would you need ?"
+    android:textSize="20dp"
+    android:layout_height="wrap_content" />
+    <Button
+            android:id="@+id/chkIos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           android:onClick="orbituaty"
+            android:text="Obituaries" />
+      <Button
+        android:id="@+id/chkAndroid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Funeral Planning"/>
+
+    <Button
+        android:id="@+id/chkWindowo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Funeral Home" />
+
+    <Button
+        android:id="@+id/btnDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add" />
+
+
+</LinearLayout>

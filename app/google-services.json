@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "3957542005",
+    "firebase_url": "https://restin-81e84.firebaseio.com",
+    "project_id": "restin-81e84",
+    "storage_bucket": "restin-81e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3957542005:android:3c11eb2109a55699",
+        "android_client_info": {
+          "package_name": "com.example.lisbeth.rest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3957542005-m2jmphme6391oufe6gi7jdeqi4et3bpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lisbeth.rest",
+            "certificate_hash": "262570b84d25bca30ac6ac1d05b8dab5e3bf0095"
+          }
+        },
+        {
+          "client_id": "3957542005-44mrq7ja9uha697r9qvuo6bjc3fcipl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVi7X4GPksumtcFLwa8J-gy-TInidDUDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3957542005-44mrq7ja9uha697r9qvuo6bjc3fcipl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

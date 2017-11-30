@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.lisbeth.rest.InfoOrbirtuaries">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SIBEKO A.G" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="251dp"
+        app:srcCompat="@drawable/grave" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IN MEMORIAL" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abram G.Sibeko, of Kameelrivier'A', passed away peacefully on Friday, August 17, 2000.He was born on 7 January 1956.In Tweefontein.He attended Moripe Bible Institute after high school, where he met Grace R. the love of his life.They were married June  1979, until his death in 2000.
+He was the beloved husband  Grace R.Sibeko . He was  the   son of the late Johannes M , and  Sophy R.Sibeko.He left three sisters and three children,two girls and one boy.You will be remembered."/>
+
+    </LinearLayout>
+
+</ScrollView>
+

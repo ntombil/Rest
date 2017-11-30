@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rest</string>
+    <string-array name="Choose">
+        <item>Choose Gender</item>
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
